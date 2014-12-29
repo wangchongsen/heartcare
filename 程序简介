@@ -1,0 +1,5 @@
+功能序号	包名称	包描述
+4	com.heartcare.ecgdisplay	心电图波形显示
+5	com.heartcare. statetest		心脏健康测评
+6	com.heartcare.showhistory		历史心电健康状态变化曲线显示
+7	com.heartcare.ecgdataread	读取txt中心电文件并解码
